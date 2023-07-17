@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Sou Nahur...</h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/nahurstreit/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/nahurstreit/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square"></>
   </a>
   <a href="https://github.com/nahurstreit" alt="Github">
