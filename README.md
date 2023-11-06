@@ -23,14 +23,50 @@
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=c,js,ts,python"></>
+        <div id="languages">
+            <a title="C" href="https://www.w3schools.com/c/index.php" >
+              <img src="https://skillicons.dev/icons?i=c"></></a>
+          <a title="JavaScript" href="https://www.w3schools.com/js/default.asp">
+              <img src="https://skillicons.dev/icons?i=js"></></a>
+          <a title="TypeScript" href="https://www.typescriptlang.org/" >
+              <img src="https://skillicons.dev/icons?i=ts"></></a>
+          <a title="Python" href="https://www.python.org/" >
+              <img src="https://skillicons.dev/icons?i=python"></></a>
+        </div>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs"></>
+        <div id="framework-lib">
+            <a title="React" href="https://react.dev/">
+              <img src="https://skillicons.dev/icons?i=react"></></a>
+          <a title="Next.JS" href="https://nextjs.org/">
+              <img src="https://skillicons.dev/icons?i=nextjs"></></a>
+          <a title="Express" href="https://expressjs.com/">
+              <img src="https://skillicons.dev/icons?i=express"></></a>
+          <a title="Sequelize" href="https://sequelize.org/">
+              <img src="https://skillicons.dev/icons?i=sequelize"></></a>
+        </div>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,github"></><br>
-        <img src="https://skillicons.dev/icons?i=ae,ai,photoshop,premiere"></>
+          <div id="related-tecnology">
+            <a title="Nodejs" href="https://nodejs.org/en">
+              <img src="https://skillicons.dev/icons?i=nodejs"></></a>
+            <a title="Github" href="https://github.com/nahurstreit/">
+              <img src="https://skillicons.dev/icons?i=github"></></a>
+            <a title="Postman" href="https://www.postman.com/">
+              <img src="https://skillicons.dev/icons?i=postman"></></a>
+            <a title="Figma" href="https://www.figma.com/">
+              <img src="https://skillicons.dev/icons?i=figma"></></a>
+          </div><br>
+          <div id="aditional-tecnology">
+            <a title="Adobe After Effects" href="https://www.adobe.com/br/products/aftereffects.html">
+              <img src="https://skillicons.dev/icons?i=ae"></></a>
+            <a title="Adobe Premiere" href="https://www.adobe.com/br/products/premiere.html">
+              <img src="https://skillicons.dev/icons?i=premiere"></></a>
+            <a title="Adobe Photoshop" href="https://www.adobe.com/br/products/photoshop.html">
+              <img src="https://skillicons.dev/icons?i=photoshop"></></a>
+            <a title="Adobe Illustrator" href="https://www.adobe.com/br/products/illustrator.html">
+              <img src="https://skillicons.dev/icons?i=ai"></></a>
+          </div>
       </td>
     </tr>
   </table>
