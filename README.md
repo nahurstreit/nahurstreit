@@ -13,7 +13,7 @@
     </a>
   </div>
   <div id="resume-text__pt">
-    <p>Eu me chamo Nahur, sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia (FATEC) de Indaiatuba, atualmente cursando o terceiro semestre. 
+    <p>Eu me chamo Nahur, sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia (FATEC) de Indaiatuba, atualmente cursando o quarto semestre. 
     Estou em busca de uma oportunidade de estágio na área de Tecnologia da Informação para mostrar o meu melhor!</p>
     <br>
   </div>
@@ -38,6 +38,8 @@
               <img src="https://skillicons.dev/icons?i=ts"></></a>
           <a title="Python" href="https://www.python.org/" >
               <img src="https://skillicons.dev/icons?i=python"></></a>
+          <a title="Java" href="https://www.java.com/pt-BR/" >
+              <img src="https://skillicons.dev/icons?i=java"></></a>
         </div>
       </td>
       <td align="center">
