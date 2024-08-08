@@ -29,13 +29,14 @@
     </tr>
     <tr>
       <td>
-        <div id="languages">
+        <div align="center" id="languages">
             <a title="C" href="https://www.w3schools.com/c/index.php" >
               <img src="https://skillicons.dev/icons?i=c"></></a>
           <a title="JavaScript" href="https://www.w3schools.com/js/default.asp">
               <img src="https://skillicons.dev/icons?i=js"></></a>
           <a title="TypeScript" href="https://www.typescriptlang.org/" >
               <img src="https://skillicons.dev/icons?i=ts"></></a>
+          <br>
           <a title="Python" href="https://www.python.org/" >
               <img src="https://skillicons.dev/icons?i=python"></></a>
           <a title="Java" href="https://www.java.com/pt-BR/" >
